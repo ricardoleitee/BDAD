@@ -1,4 +1,4 @@
 BDAD
 ====
 
-Projectos de Base de Dados (sqlite)
+Projectos de Base de Dados (na linguagem SQLite)
